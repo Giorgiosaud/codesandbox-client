@@ -179,7 +179,7 @@
     "console-feed": "CompuIves/console-feed#build2",
     "css-modules-loader-core": "^1.1.0",
     "cssnano": "^3.10.0",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "downshift": "^1.0.0-rc.14",
     "eslint-config-react-app": "^1.0.5",
     "eslint-plugin-react-hooks": "1.6.0",
